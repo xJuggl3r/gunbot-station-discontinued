@@ -90,3 +90,65 @@ To <span style="color: #ff0000;">view a list of available windows</span>. press
 ![](https://i.gyazo.com/db313a89018e26120e33880f5c767dbf.png)
 
 To<span style="color: #000000;"> **move around panes**</span> - or the small windows inside the big one - press **CRTL+A** followed by **UP, DOWN, LEFT or RIGHT**. You can also directly click in the chosen pane. Right click will distinguish it from the others.
+
+### 2.3 Creating Windows and Panes
+
+To start more more pairs, you will need to create room for them. While this feature is not automated, here are the commands:
+
+**Create a new window** pressing **CTRL+A c** 
+
+**Create a new vertical pane** pressing **CRTL+A | **(the character above '\' backslash)
+
+**Create a new horizontal pane** pressing **CTRL+ -** (minus)
+
+#### In order to make it easier, **use the following commands to make a new pairs window**:
+
+#### **CTRL+A c**, **CTRL+A -**, **CTRL+A -**, **CTRL+A -**, **CTRL+A ALT+5**
+
+This will generate a window like this:
+
+![](https://i.gyazo.com/7cf1540326639e534529f252b95eade3.png)
+
+**OBS: **According to your screen size, 6 panes can be added instead of four. The default number assures that all pair data will be displayed in the pane. 
+
+## 4. Creating and Starting Pairs
+
+EasyGun counts with a Pair Creator. To start it, type **pairs** and press **Enter**:
+
+![](https://i.gyazo.com/4675c7157af13c5e809cf9d1683f9560.png)
+
+Choose the exchange by pressing its corresponding number and press Enter.
+
+Populate the pairs you want to run. Choose 4 pairs with the same setup:
+
+![](https://i.gyazo.com/423ba58a85d5e303a47c3497e2ccef11.png)
+
+After pressing Enter, choose the desired strategies for buying and selling. A confirmation will be prompted. You can scroll the pane and check the info. If everythin is ok, press Y and Enter to save the pairs:
+
+![](https://i.gyazo.com/b478d5500bd7a6e6bea2d37d523a078a.png)
+
+ For now, press n to autostart pairs:
+
+![](https://i.gyazo.com/13a621958915c7629b94588fa192b7ec.png)
+
+Now, in each pane, type the corresponding pair and press Enter.
+
+In this case, the command would be:
+
+polo_ETC
+
+polo_ETH
+
+polo_FCT
+
+polo_XRP
+
+Now the four pairs are running.
+
+#### TIP: Rename the windows for better management with CTRL+A ,
+
+The status bar will change. Delete the content and type the new one and press Enter:
+
+![](https://i.gyazo.com/fce7315a039f2e46a8500ab5b1111dc8.png)
+
+To add more pairs, create a new window and panes, run the Pair Generator and repeat the process.
