@@ -4,7 +4,7 @@ V. 0.2
 
 ### This short guide will brief instruct you about Easy Gun workings.
 
-### 1 - Connecting to the server
+## 1 - Connecting to the server
 
 In Mac, you’ll use **Terminal** to login:
 
@@ -152,3 +152,36 @@ The status bar will change. Delete the content and type the new one and press En
 ![](https://i.gyazo.com/fce7315a039f2e46a8500ab5b1111dc8.png)
 
 To add more pairs, create a new window and panes, run the Pair Generator and repeat the process.
+
+## 5\. Easy-Gun Tools
+
+For your convenience, the system offers some tools to help you with Poloniex-related information. Below are the current features and their commands. Please observe that for private info, a brand new API key will be needed. Please no dot enable trading or withdrawal features.
+
+### 5.1 Anapolo
+
+Displays the coins with highest volume change during a period of time ranging from 1 week to 1 hour. Very useful now that this feature is not available in GB 3.2.  
+Command: **anapolo**
+
+**![](https://i.gyazo.com/59e3b7b1a5066def976658b315762880.png)**
+
+### 5.2 Know your Fees
+
+Lists how much fee you have paid for each coin you have traded, displaying the total amount in BTC;  
+Command: **fees**
+
+![](https://i.gyazo.com/796255e7a7c04d8f19dc6e1d91bdbd4a.png)
+
+### 5.3 Profits and Overview
+
+These ctools displays the current status of the account, in a simple or detailed view.  
+Command: **profits**
+
+![](https://i.gyazo.com/8f10957ea984168023ed23317e01987a.png)
+
+Command: **overview**
+
+![](https://i.gyazo.com/c5ef39f5c3767d610db2761fff638f55.png)
+
+More features will be added according to the next releases.
+
+_Send your feedback to @criptonauta in Telegram or PM me at [https://gunthy.org](https://gunthy.org)_
