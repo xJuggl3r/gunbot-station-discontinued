@@ -1,4 +1,4 @@
-## Welcome, T+, to Easy Gun | Special Ammo for yout GUNBOT ^^
+## Welcome to Easy Gun | Special Ammo for yout GUNBOT ^^
 
 V. 0.2
 
