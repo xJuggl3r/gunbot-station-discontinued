@@ -1,3 +1,5 @@
+# DISCONTINUED
+
 ## Welcome to Easy Gun | Special Ammo for yout GUNBOT ^^
 
 V. 0.2
